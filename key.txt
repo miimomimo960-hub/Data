@@ -1,1 +1,1 @@
-AMINE2026
+{"status":"success","auth":true,"msg":"Welcome Admin","time":"2029-12-30"}
